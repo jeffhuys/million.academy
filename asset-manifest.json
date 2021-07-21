@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/million.academy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/million.academy/static/js/main.fbc50ca5.chunk.js",
+    "main.js.map": "/million.academy/static/js/main.fbc50ca5.chunk.js.map",
+    "runtime-main.js": "/million.academy/static/js/runtime-main.52f2b873.js",
+    "runtime-main.js.map": "/million.academy/static/js/runtime-main.52f2b873.js.map",
+    "static/js/2.fa5adcfd.chunk.js": "/million.academy/static/js/2.fa5adcfd.chunk.js",
+    "static/js/2.fa5adcfd.chunk.js.map": "/million.academy/static/js/2.fa5adcfd.chunk.js.map",
+    "static/js/3.9b9f0b74.chunk.js": "/million.academy/static/js/3.9b9f0b74.chunk.js",
+    "static/js/3.9b9f0b74.chunk.js.map": "/million.academy/static/js/3.9b9f0b74.chunk.js.map",
+    "index.html": "/million.academy/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/million.academy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fa5adcfd.chunk.js.LICENSE.txt": "/million.academy/static/js/2.fa5adcfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f2b873.js",
+    "static/js/2.fa5adcfd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.fbc50ca5.chunk.js"
+  ]
+}
